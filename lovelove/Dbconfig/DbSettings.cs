@@ -11,8 +11,8 @@ namespace lovelove.Dbconfig
         {
             Config = new FirebaseConfig
             {
-                AuthSecret = "uWgYGkr51O5H75fjHvNAlnnlAsRWCn3PUUBLVQAo",
-                BasePath = "https://mynewproject-1a041-default-rtdb.firebaseio.com"
+                AuthSecret = "---",
+                BasePath = "---"
             };
         }
     }
